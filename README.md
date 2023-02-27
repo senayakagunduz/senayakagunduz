@@ -2,10 +2,10 @@
  I'm Şenay Akagündüz
   
 
-- 🔭 I’m currently working on ### React Projects (https://github.com/senayakagunduz)  
+- 🔭 I’m currently working on  <strong>React Projects (https://github.com/senayakagunduz)  </strong>
   
 
-- 🌱 I’m currently learning ### socket.io and api projects  
+- 🌱 I’m currently learning socket.io and api projects  
   
 
 - ❓ Ask me about anything related to React.js and UI related technologies  
