@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on  <strong>React Projects (https://github.com/senayakagunduz)  </strong>
   
 
-- 🌱 I’m currently learning socket.io and api projects  
+- 🌱 I’m currently learning <strong>socket.io and api projects </strong> 
   
 
 - ❓ Ask me about anything related to React.js and UI related technologies  
