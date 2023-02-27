@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning <strong>socket.io and api projects </strong> 
   
 
-- ❓ Ask me about anything related to React.js and UI related technologies  
+- ❓ Ask me about anything related to<strong> React.js and UI related technologies </strong>  
   
 
 <br/>  
