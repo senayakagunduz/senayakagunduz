@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on  <strong>React Projects (https://github.com/senayakagunduz)  </strong>
   
 
-- 🌱 I’m currently learning <strong>Context Api and Redux Toolkit</strong> 
+- 🌱 I’m currently developing <strong>Offer Management E-commerce Project</strong> 
   
 
 - ❓ Ask me about anything related to<strong> React.js and UI related technologies </strong>  
