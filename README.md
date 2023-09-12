@@ -38,7 +38,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=senayakagunduz&show_icons=true&theme=transparent" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senayakagunduz&hide_border=true&layout=compact" align="center" /></div>  
-![Senay's GitHub stats](https://github-readme-stats.vercel.app/api?username=senayakagunduz&show_icons=true&theme=transparent)
+
 
 
 ## Connect with me  
