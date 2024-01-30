@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on  <strong>React Projects (https://github.com/senayakagunduz)  </strong>
   
 
-- 🌱 I’m currently developing <strong>Offer Management E-commerce Project</strong> 
+- 🌱 I’m currently developing <strong>Next JS Projects</strong> 
   
 
-- ❓ Ask me about anything related to<strong> React.js and UI related technologies </strong>  
+- ❓ Ask me about anything related to<strong> React.js, Next.js and UI related technologies </strong>  
   
 
 <br/>  
