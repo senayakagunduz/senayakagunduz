@@ -8,7 +8,7 @@
 - 🌱 I’m currently developing <strong>Next JS Projects</strong> 
   
 
-- ❓ Ask me about anything related to<strong> React.js, Next.js and UI related technologies </strong>  
+- ❓ Ask me about anything related to<strong> React.js,Typescript, Next.js and UI related technologies </strong>  
   
 
 <br/>  
