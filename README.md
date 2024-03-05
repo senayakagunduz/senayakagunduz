@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on  <strong>React Projects (https://github.com/senayakagunduz)  </strong>
   
 
-- 🌱 I’m currently developing <strong>Next JS Projects</strong> 
+- 🌱 I’m currently developing <strong>React.ts, Next.js Projects</strong> 
   
 
 - ❓ Ask me about anything related to<strong> React.js,Typescript, Next.js and UI related technologies </strong>  
