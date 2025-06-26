@@ -1,26 +1,24 @@
-### Hi there 👋
+### Hi there, I am Senay 👋 
 I'm a Senior Frontend Developer with 4+ years of experience building modern, scalable web applications using React, Next.js, TypeScript and other tools in the JS ecosystem.
+    - 🔭 I worked on  <strong>React Projects (https://github.com/senayakagunduz)  </strong>
+    - 🌱 I developed <strong>React,Typescript, Next.js, Tailwind Projects</strong> 
+    - ❓ Ask me about anything related to<strong> React.js,Typescript, Next.js and UI related technologies </strong>  
 
   🧠 Recently, I'm diving deep into **Artificial Intelligence**, especially in:
+    - 🔗 **LLMs** (Large Language Models)
+    - 🛠️ **LangChain** for building intelligent pipelines
+    - 🤖 **Generative AI** applications
+    - 🐍 **Python** for backend & data workflows
 
-- 🔗 **LLMs** (Large Language Models)
-- 🛠️ **LangChain** for building intelligent pipelines
-- 🤖 **Generative AI** applications
-- 🐍 **Python** for backend & data workflows
+  🚀 What I'm Working On
+    - Building **AI-powered UIs** where frontend meets LLMs
+    - Experimenting with **LangChain + FastAPI** for smart chatbots
+    - Integrating OpenAI & HuggingFace models into real-time interfaces
+    - Prototyping tools that combine **React + Python AI backends**
 
-- ## 🚀 What I'm Working On
 
-- Building **AI-powered UIs** where frontend meets LLMs
-- Experimenting with **LangChain + FastAPI** for smart chatbots
-- Integrating OpenAI & HuggingFace models into real-time interfaces
-- Prototyping tools that combine **React + Python AI backends**
-
-- 🔭 I worked on  <strong>React Projects (https://github.com/senayakagunduz)  </strong>
-- 🌱 I developed <strong>React,Typescript, Next.js, Tailwind Projects</strong> 
-- ❓ Ask me about anything related to<strong> React.js,Typescript, Next.js and UI related technologies </strong>  
   
 ## 🛠 Tech Stack
-
 **Frontend:**  
 React · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · Zustand · D3.js
 
