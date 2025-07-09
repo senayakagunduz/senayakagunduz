@@ -1,5 +1,5 @@
 ## Hi there, I am Senay 👋 
-I'm a Senior Frontend Developer with 4+ years of experience building modern, scalable web applications using React, Next.js, TypeScript and other tools in the JS ecosystem.
+I'm a Software Developer with 4+ years of experience building modern, scalable web applications using JavaScript, Python, React, Next.js, TypeScript and other tools in the JS ecosystem.
 
     - 🔭 I worked on React Projects (https://github.com/senayakagunduz) 
     - 🌱 I developed React,Typescript, Next.js, Tailwind Projects 
@@ -14,22 +14,22 @@ I'm a Senior Frontend Developer with 4+ years of experience building modern, sca
 
   🚀 What I'm Working On
   
-    - Building **AI-powered UIs** where frontend meets LLMs
     - Experimenting with **LangChain + FastAPI** for smart chatbots
     - Integrating OpenAI & HuggingFace models into real-time interfaces
     - Prototyping tools that combine **React + Python AI backends**
+    - Building **AI-powered UIs** where frontend meets LLMs
 
 
   
 ## 🛠 Tech Stack
 **Frontend:**  
-React · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · Zustand · D3.js
+React · Next.js · Angular . TypeScript · Tailwind CSS · Shadcn-ui . Daisy-ui. React-Bootstrap . Bootstrap . Redux Toolkit · Zustand · D3.js
 
 **AI / Backend:**  
-LangChain · Python · FastAPI · OpenAI API · HuggingFace · Prompt Engineering
+Python · LangChain . FastAPI · OpenAI API · HuggingFace · Prompt Engineering
 
 **Tools:**  
-Git · GitHub · Vercel · VS Code · Figma · CI/CD · Jest
+Git · GitHub · Vercel · VS Code · Figma · CI/CD · Jest . Docker
 ## 📈 Featured AI Projects (coming soon...)
 
 - **AI Chat UI with LangChain** – React-based chat interface backed by a LangChain pipeline  
