@@ -26,10 +26,10 @@ I'm a Software Developer with 4+ years of experience building modern, scalable w
 React · Next.js · Angular . TypeScript · Tailwind CSS · Shadcn-ui . Daisy-ui. React-Bootstrap . Bootstrap . Redux Toolkit · Zustand · D3.js
 
 **AI / Backend:**  
-Python · LangChain . FastAPI · OpenAI API · HuggingFace · Prompt Engineering
+Python · LangChain . FastAPI · OpenAI API · HuggingFace · Prompt Engineering . MongoDb . Node.js
 
 **Tools:**  
-Git · GitHub · Vercel · VS Code · Figma · CI/CD · Jest . Docker
+Git · GitHub · Gitlab . Vercel · VS Code · Figma · CI/CD · Jest . Docker . Conda .PyCharm
 ## 📈 Featured AI Projects (coming soon...)
 
 - **AI Chat UI with LangChain** – React-based chat interface backed by a LangChain pipeline  
