@@ -26,7 +26,7 @@ I'm a Software Developer with 4+ years of experience building modern, scalable w
 React · Next.js · Angular . TypeScript · Tailwind CSS · Shadcn-ui . Daisy-ui. React-Bootstrap . Bootstrap . Redux Toolkit · Zustand · D3.js . React Bootstrap
 
 **AI / Backend:**  
-. MongoDb . Node.js . Next Api Routes . Python · LangChain . FastAPI · OpenAI API · HuggingFace · Prompt Engineering 
+ Node.js . Next Api Routes . MongoDb . Python · LangChain . FastAPI · OpenAI API · HuggingFace · Prompt Engineering 
 
 **Tools:**  
 Git · GitHub · Gitlab . Vercel · VS Code · Figma · CI/CD · Jest . Docker . Conda .PyCharm
