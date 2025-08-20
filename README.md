@@ -1,9 +1,10 @@
 ## Hi there, I am Senay 👋 
 I'm a Software Developer with 4+ years of experience building modern, scalable web applications using JavaScript, Python, React, Next.js, TypeScript and other tools in the JS ecosystem.
 
-    - 🔭 I worked on React Projects (https://github.com/senayakagunduz) 
+    - 🔭 I worked on Next.js Projects (https://github.com/senayakagunduz) 
     - 🌱 I developed React,Typescript, Next.js, Tailwind Projects 
-    - ❓ Ask me about anything related to React.js,Typescript, Next.js and UI related technologies 
+    - ❓  Ask me about anything related to React.js,Typescript, Next.js and UI related technologies 
+    - 🛠️ I have projects on Angular, Vue.js 
 
   🧠 Recently, I'm diving deep into **Artificial Intelligence**, especially in:
   
