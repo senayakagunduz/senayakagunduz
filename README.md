@@ -6,20 +6,23 @@ I'm a Software Developer with 4+ years of experience building modern, scalable w
     - ❓  Ask me about anything related to React.js,Typescript, Next.js and UI related technologies 
     - 🛠️ I have projects on Angular, Vue.js 
 
-  🧠 Recently, I'm diving deep into **Artificial Intelligence**, especially in:
-  
-    - 🔗 **LLMs** (Large Language Models)
-    - 🛠️ **LangChain** for building intelligent pipelines
-    - 🤖 **Generative AI** applications
-    - 🐍 **Python** for backend & data workflows
-
   🚀 What I'm Working On
-  
-    - Experimenting with **LangChain + FastAPI** for smart chatbots
-    - Integrating OpenAI & HuggingFace models into real-time interfaces
-    - Prototyping tools that combine **React + Python AI backends**
-    - Building **AI-powered UIs** where frontend meets LLMs
-
+     - 🔗 Developing Fullstack applications with Next.js (frontend + backend)
+     - ❓ Writing REST APIs with Next.js API routes (router.ts)
+     - 🔭 Building Node.js backends connected to MongoDB using Mongoose
+     - 🛠️ Implementing authentication & authorization with NextAuth.js
+     - 🐍 Integrating OpenAI & Hugging Face models into real-time apps
+     - 🤖 Prototyping AI-powered UIs where modern frontend meets LLMs
+     
+ 🧠 Areas I'm Exploring / Interested In
+    -🔗 LLMs (Large Language Models)
+        Currently exploring LangChain + FastAPI for building smart chatbots
+    -🛠️ LangChain for intelligent pipelines
+        Planning to integrate OpenAI & HuggingFace models into real-time interfaces
+    -🤖 Generative AI applications
+        Interested in prototyping tools that combine React frontends + Node.js/Python backend
+    -🐍 Python & Node.js for backend & data workflows
+        Learning to build AI-powered UIs where frontend meets LLMs
 
   
 ## 🛠 Tech Stack
