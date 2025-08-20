@@ -6,23 +6,19 @@ I'm a Software Developer with 4+ years of experience building modern, scalable w
     - ❓  Ask me about anything related to React.js,Typescript, Next.js and UI related technologies 
     - 🛠️ I have projects on Angular, Vue.js 
 
-  🚀 What I'm Working On
-     - 🔗 Developing Fullstack applications with Next.js (frontend + backend)
-     - ❓ Writing REST APIs with Next.js API routes (router.ts)
-     - 🔭 Building Node.js backends connected to MongoDB using Mongoose
-     - 🛠️ Implementing authentication & authorization with NextAuth.js
-     - 🐍 Integrating OpenAI & Hugging Face models into real-time apps
-     - 🤖 Prototyping AI-powered UIs where modern frontend meets LLMs
-     
- 🧠 Areas I'm Exploring / Interested In
-    -🔗 LLMs (Large Language Models)
-        Currently exploring LangChain + FastAPI for building smart chatbots
-    -🛠️ LangChain for intelligent pipelines
-        Planning to integrate OpenAI & HuggingFace models into real-time interfaces
-    -🤖 Generative AI applications
-        Interested in prototyping tools that combine React frontends + Node.js/Python backend
-    -🐍 Python & Node.js for backend & data workflows
-        Learning to build AI-powered UIs where frontend meets LLMs
+````🚀 What I'm Working On
+    🔗 Developing Fullstack applications with Next.js (frontend + backend)
+    ❓ Writing REST APIs with Next.js API routes (router.ts)
+    🔭 Building Node.js backends connected to MongoDB using Mongoose
+    🛠️ Implementing authentication & authorization with NextAuth.js
+    🐍 Integrating OpenAI & Hugging Face models into real-time apps
+    🤖 Prototyping AI-powered UIs where modern frontend meets LLMs````
+
+````🧠 Areas I'm Exploring / Interested In
+    🔗 Exploring LLMs (Large Language Models) with LangChain + FastAPI for smart chatbots
+    🛠️ Learning LangChain pipelines to integrate OpenAI & Hugging Face models into apps
+    🤖 Interested in Generative AI applications combining React frontends + Node.js/Python backends
+    🐍 Exploring Python & Node.js for backend and data workflows, building AI-powered UIs````
 
   
 ## 🛠 Tech Stack
