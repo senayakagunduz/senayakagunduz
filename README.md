@@ -1,23 +1,20 @@
 ## Hi there, I am Senay 👋 
 I'm a Software Developer with 4+ years of experience building modern, scalable web applications using JavaScript, Python, React, Next.js, TypeScript and other tools in the JS ecosystem.
 
-        - 🔭 I worked on Next.js Projects (https://github.com/senayakagunduz) 
+        - 🔭 I worked on React.js, Next.js and React Native Projects (https://github.com/senayakagunduz) 
         - 🌱 I developed React,Typescript, Next.js, Tailwind Projects 
-        - ❓  Ask me about anything related to React.js,Typescript, Next.js and UI related technologies 
-        - 🛠️ I have projects on Angular, Vue.js 
+        - ❓ Ask me about anything related to React.js,Typescript, Next.js and UI related technologies 
+        - 🛠️ I have projects on React Native ,Angular, Vue.js 
     
 ````🚀 What I'm Working On
     - 🔗 Developing Fullstack applications with Next.js (frontend + backend)
     - ❓ Writing REST APIs with Next.js API routes (router.ts)
     - 🔭 Building Node.js backends connected to MongoDB using Mongoose
     - 🛠️ Implementing authentication & authorization with NextAuth.js
-    - 🐍 Integrating OpenAI & Hugging Face models into real-time apps
-    - 🤖 Prototyping AI-powered UIs where modern frontend meets LLMs
 ````
 
 ````🧠 Areas I'm Exploring / Interested In
     - 🔗 Exploring LLMs (Large Language Models) with LangChain + FastAPI for smart chatbots
-    - 🛠️ Learning LangChain pipelines to integrate OpenAI & Hugging Face models into apps
     - 🤖 Interested in Generative AI applications combining React frontends + Node.js/Python backends
     - 🐍 Exploring Python & Node.js for backend and data workflows, building AI-powered UIs
 ````
@@ -25,7 +22,7 @@ I'm a Software Developer with 4+ years of experience building modern, scalable w
   
 ## 🛠 Tech Stack
 **Frontend:**  
-React · Next.js · Angular . TypeScript · Tailwind CSS · Shadcn-ui . Daisy-ui. React-Bootstrap . Bootstrap . Redux Toolkit · Zustand · D3.js . React Bootstrap
+React · React Native . Next.js · Angular . TypeScript · Tailwind CSS · Shadcn-ui . Daisy-ui. React-Bootstrap . Bootstrap . Redux Toolkit · Zustand · D3.js . React Bootstrap
 
 **AI / Backend:**  
  Node.js . Next Api Routes . MongoDb . Python · LangChain . FastAPI · OpenAI API · HuggingFace · Prompt Engineering 
